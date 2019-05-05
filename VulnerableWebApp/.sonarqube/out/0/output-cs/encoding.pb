@@ -1,0 +1,25 @@
+j
+aC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Ajax.aspx.csutf-8v
+mC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\CommandInjection.aspx.csutf-8m
+dC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Default.aspx.csutf-8s
+jC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\FileInjection.aspx.csutf-8l
+cC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Global.asax.csutf-8l
+cC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\HTTPRS.aspx.csutf-8s
+jC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\LDAPInjection.aspx.csutf-8i
+`C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\LFI.aspx.csutf-8p
+gC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\lib\Cryptograpy.csutf-8k
+bC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\login.aspx.csutf-8{
+rC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\pageforstaticanalysis.aspx.csutf-8r
+iC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\PostJsonData.aspx.csutf-8u
+lC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\newuser.aspx.csutf-8w
+nC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\riservata.aspx.csutf-8r
+iC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\XSRF.aspx.csutf-8n
+eC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Prodotti.aspx.csutf-8o
+fC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\prodotti2.aspx.csutf-8x
+oC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Properties\AssemblyInfo.csutf-8i
+`C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\RFI.aspx.csutf-8t
+kC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XPathInjection.aspx.csutf-8i
+`C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\xss.aspx.csutf-8n
+eC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\xss_elab.aspx.csutf-8i
+`C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XXE.aspx.csutf-8n
+eC:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XXE_elab.aspx.csutf-8
