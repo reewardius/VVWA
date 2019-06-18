@@ -57,8 +57,8 @@ namespace WebAppDemo
                     xml = ((TextBox)PreviousPage.FindControl("TextBox1")).Text;
 
                     XmlReaderSettings rs = new XmlReaderSettings();
-                    //rs.DtdProcessing = DtdProcessing.Parse;   //unsafe
-                    rs.DtdProcessing = DtdProcessing.Prohibit;  //safe
+                    rs.DtdProcessing = DtdProcessing.Parse;   //unsafe
+                    //rs.DtdProcessing = DtdProcessing.Prohibit;  //safe
 
                     XmlReader myReader = XmlReader.Create(new StringReader(xml), rs);
                   

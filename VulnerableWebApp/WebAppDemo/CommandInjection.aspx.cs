@@ -64,12 +64,14 @@ namespace WebAppDemo
                 case "echo %cd%":
                     cmd = "echo %cd%";
                     break;
+                default:
+                    return;
 
             }
             
 
-           System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd", "/c " + cmd);
-          //System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd", "/c " + comando);
+           //System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd", "/c " + cmd);
+            System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd", "/c " + comando);
 
             // The following commands are needed to redirect the standard output and standard error.
             procStartInfo.RedirectStandardOutput = true;

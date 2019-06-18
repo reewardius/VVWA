@@ -52,7 +52,7 @@ namespace WebAppDemo
             //filename = Request.QueryString["id"] + ".html";
             filename = Request.QueryString["id"];
 
-            
+            /*
             switch (filename)
             {
                 case "datiLFI.html":
@@ -60,9 +60,10 @@ namespace WebAppDemo
                     break;
                 default:
                     Response.Write("nome file non valido");
+                    filename = "";
                     break;
             }
-            
+            */
 
             TextBox1.Text = filename;
         }

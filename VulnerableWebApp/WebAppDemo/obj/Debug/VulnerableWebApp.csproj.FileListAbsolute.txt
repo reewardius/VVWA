@@ -13,3 +13,19 @@ C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebApp
 C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.dll
 C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.pdb
 C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csproj.CoreCompileInputs.cache
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.dll.config
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.dll
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.pdb
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\Newtonsoft.Json.dll
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Extensions.dll
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Primitives.dll
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\Newtonsoft.Json.xml
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Extensions.xml
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Primitives.xml
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csproj.App.config
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csprojResolveAssemblyReference.cache
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csproj.CoreCompileInputs.cache
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.dll
+C:\Users\gian\Documents\GitHub\VVWA\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.pdb

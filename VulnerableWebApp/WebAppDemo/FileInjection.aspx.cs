@@ -63,29 +63,31 @@ namespace WebAppDemo
             path = Server.MapPath("~/uploads/");
             FileUpload1.PostedFile.SaveAs(path + FileUpload1.FileName); //unsafe
 
-            
-           //check metadati coerenti con tipologi file
-           /*
-            string contenttype = String.Empty;
-            Stream checkStream = FileUpload1.PostedFile.InputStream;
-            BinaryReader chkBinary = new BinaryReader(checkStream);
-            Byte[] chkbytes = chkBinary.ReadBytes(0x10);
 
-            string data_as_hex = BitConverter.ToString(chkbytes);
-            string magicCheck = data_as_hex.Substring(0, 11);
+            //check metadati coerenti con tipologi file
+            /*
+             string contenttype = String.Empty;
+             Stream checkStream = FileUpload1.PostedFile.InputStream;
+             BinaryReader chkBinary = new BinaryReader(checkStream);
+             Byte[] chkbytes = chkBinary.ReadBytes(0x10);  //16 bytes
 
-            switch (magicCheck)
-            {
-                case "FF-D8-FF-E1":
-                    contenttype = "image/jpg";
-                    break;
-                case "FF-D8-FF-E0":
-                    contenttype = "image/jpeg";
-                    break;
+             string data_as_hex = BitConverter.ToString(chkbytes);
+             string magicCheck = data_as_hex.Substring(0, 11);
 
-            }
-            */
-            
+             switch (magicCheck)
+             {
+                 case "FF-D8-FF-E1":
+                     contenttype = "image/jpg";
+                     break;
+                 case "FF-D8-FF-E0":
+                     contenttype = "image/jpeg";
+                     break;
+                 default:
+                     Response.Write("file non conforme al magik number");
+                     return;
+             }
+             */
+
             /*
             
             if (FileUpload1.HasFile && !String.IsNullOrEmpty(contenttype))

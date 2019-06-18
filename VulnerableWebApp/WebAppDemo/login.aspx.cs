@@ -105,17 +105,17 @@ namespace WebAppDemo
 
             hash = crypt.compute_hash(paswd.Text);
 
-            /*
+            
             QueryString = "SELECT * FROM " + nometabella +
                 " WHERE utente='" + username.Text + "' and password='"
                 + hash + "'";
-            */
-
             
+
+            /*
             QueryString = "SELECT * FROM " + nometabella +
                 " WHERE utente='" + username.Text + "' and password='"
                 + paswd.Text + "'";
-            
+            */
 
             /*
             QueryString = "SELECT * FROM " + nometabella +

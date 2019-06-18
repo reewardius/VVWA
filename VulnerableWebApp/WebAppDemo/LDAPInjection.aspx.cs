@@ -22,10 +22,9 @@ namespace WebAppDemo
             string uid = "";
             try
             {
-                //DirectoryEntry rootEntry = new DirectoryEntry("LDAP://localhost",username,password);
+                DirectoryEntry rootEntry = new DirectoryEntry("LDAP://localhost",username,password);
                 //DirectoryEntry rootEntry = new DirectoryEntry("LDAP://APOLLON/ou=People,dc=maxcrc,dc=com");
-                DirectoryEntry rootEntry = new DirectoryEntry("LDAP://ldap.iastate.edu/ou=People,dc=iastate,dc=edu");
-
+               
                 rootEntry.AuthenticationType = AuthenticationTypes.Anonymous; //Or whatever it need be
                 DirectorySearcher searcher = new DirectorySearcher(rootEntry);
                 //var queryFormat = "(&(objectClass=user)(objectCategory=person)(|(SAMAccountName=*)(cn=*)(gn=*)(sn=*)(email=*)))";
